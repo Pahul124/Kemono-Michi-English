@@ -20,7 +20,7 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 hoi {}, my name is {}! if you have any questions about how to use me please give me /help... 
 
-Im a group manager bot maintained by  [this person](tg://user?id={}).
+Im a group manager bot maintained by  [this pro person](tg://user?id={836334838}).
 
 My future updates will be put into This Channel - @TeamBinnersOfficial.
 
@@ -51,7 +51,7 @@ And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll of the following commands  / or ! can  be used...\n")
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
-It took lots of work for [my creator](tg://user?id={}) to get me to where I am now, and every donation helps \
+It took lots of work for [my creator](tg://user?id={836334838}) to get me to where I am now, and every donation helps \
 motivate him to make me even better. All the donation money will go to a better VPS to host me."""
 
 IMPORTED = {}
