@@ -22,11 +22,11 @@ hoi {}, my name is {}! if you have any questions about how to use me please give
 
 Im a group manager bot maintained by  [this person](tg://user?id={}).
 
-My future updates will be put into This Channel - @KemonoMichiSupport.
+My future updates will be put into This Channel - @TeamBinnersOfficial.
 
-This is my [Deploy Code](https://heroku.com/deploy?template=https://github.com/TGExplore/Marie-3.0-English),	I will try to provide you my best service.
-you can create clone same like me..
 I will try to provide you my best service.
+
+
 
 For more commands click /help...
 
